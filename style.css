@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(17, 51, 72);
+    color: white;
+}
+.main-txt{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+    font-size: xx-large;
+}
+
+.main-card {
+    height: 400px; 
+  }
+.crd{
+    height: 176px;
+    margin-top: 10px;
+}
+.card{
+    background-color: #23648a;
+    color: rgb(251, 251, 251);
+}
+.location-image {
+    width: 25px; 
+    height: 25px; 
+    margin-right: 10px; 
+  }
+.icon-image{
+    width: 30px; 
+    height: 30px; 
+    margin-right: 10px; 
+}
+  
+  
+  
+  
+  
